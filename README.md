@@ -10,7 +10,7 @@ A web application to register ski instructors, view their profiles and contact t
 4. Logout
 
 
-### Data Input form
+### Data Input Form
 a forum to fill user's data.
 
 ### User Page
